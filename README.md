@@ -57,7 +57,7 @@ Simulation results are stored in the `sim/result/images/` directory and include:
 - **Waveform**: The waveform generated during the simulation that shows the signal transitions for each gate's output.
   ![Waveform](sim/result/images/waveform.png)
 - **Schematic**: A general schematic representation of the gate-level design.
-  ![Schematic](sim/result/images/schematic.png)
+  ![Schematic](sim/result/images/Schematic.png)
 - **Gate-level Schematic**: A more detailed gate-level schematic showing the logic gates in their implemented form.
   ![Gate-level Schematic](sim/result/images/gatelevelschematic.png)
 
