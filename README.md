@@ -84,7 +84,6 @@ Here’s a brief overview of the files in the repository:
 To run the simulation, you will need **QuestaSim** (or **ModelSim**, which is the same simulator suite):
 - [QuestaSim](https://www.mentor.com/products/fpga/questasim) or [ModelSim](https://www.mentor.com/products/fpga/modelsim)
 
-
 ### Viewing the Simulation Results
 
 You can view the simulation waveform and other images in the `sim/result/images/` directory, such as:
