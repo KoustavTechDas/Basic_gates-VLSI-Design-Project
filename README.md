@@ -9,7 +9,6 @@ This project demonstrates the design and simulation of basic logic gates (AND, O
 - [Simulation](#simulation)
 - [Files Overview](#files-overview)
 - [How to Use](#how-to-use)
-- [Dependencies](#dependencies)
 - [License](#license)
 
 ## Introduction
