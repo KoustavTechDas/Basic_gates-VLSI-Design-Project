@@ -93,7 +93,6 @@ You can view the simulation waveform and other images in the `sim/result/images/
 ## Dependencies
 
 - **QuestaSim** or **ModelSim** (for simulation)
-- Text editor for Verilog code (Visual Studio Code, Sublime Text, etc.)
 
 ## License
 
