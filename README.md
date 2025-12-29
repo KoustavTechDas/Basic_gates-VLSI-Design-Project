@@ -93,7 +93,6 @@ You can view the simulation waveform and other images in the `sim/result/images/
 ## Dependencies
 
 
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
