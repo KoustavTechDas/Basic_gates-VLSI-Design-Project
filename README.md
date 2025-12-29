@@ -1,6 +1,6 @@
 # Basic Gates VLSI Design Project
 
-This project demonstrates the design and simulation of basic logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) using Verilog in a VLSI design context. The gates are implemented using the **dataflow modeling style** in Verilog, and the project also includes simulation results, waveforms, schematic diagrams, and gate-level schematics to verify the functionality of each gate.
+This project demonstrates the design and simulation of basic logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) using Verilog in a VLSI design context. The gates are implemented using the **dataflow modeling style** in Verilog, and the project also includes simulation results, waveforms, schematic-diagrams, and gate-level schematics to verify the functionality of each gate.
 
 ## Table of Contents
 - [Introduction](#introduction)
