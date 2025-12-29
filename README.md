@@ -92,7 +92,7 @@ You can view the simulation waveform and other images in the `sim/result/images/
 
 ## Dependencies
 
-- **QuestaSim** or **ModelSim** (for simulation)
+
 
 ## License
 
