@@ -90,8 +90,6 @@ You can view the simulation waveform and other images in the `sim/result/images/
 - **`schematic.png`**: View the schematic diagram of the gate-level design.
 - **`gatelevelschematic.png`**: View the gate-level schematic representation of the design.
 
-## Dependencies
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
